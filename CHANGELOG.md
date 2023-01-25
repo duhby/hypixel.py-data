@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2023-1-25
+
+### Fixed
+
+- Achievements data.
+
 ## [1.0.0] - 2023-1-24
 
 ### Added
@@ -14,5 +20,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - The project.
 - Achievements data.
 
-[Unreleased]: https://github.com/duhby/hypixel.py/compare/v1.0.0...master
+[Unreleased]: https://github.com/duhby/hypixel.py/compare/v1.0.1...master
+[1.0.1]: https://github.com/duhby/hypixel.py/releases/tag/v1.0.1
 [1.0.0]: https://github.com/duhby/hypixel.py/releases/tag/v1.0.0
