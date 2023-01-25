@@ -29,7 +29,6 @@ setup(
     author='duhby',
     license='MIT',
     version=version,
-    packages=packages,
     description='A Python package for optional, extra data used with the hypixel.py library',
     long_description=readme,
     long_description_content_type="text/x-rst",
