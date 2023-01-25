@@ -9,7 +9,7 @@ with open('hypixel_data/__init__.py') as f:
         re.MULTILINE
     ).group(1)
 
-with open('README.rst') as f:
+with open('README.md') as f:
     readme = f.read()
 
 classifiers = [
