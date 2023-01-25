@@ -14,9 +14,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - The project.
 - Achievements data.
 
-### Deprecated
-
-- Player.version always returns ``None`` and will be removed in a later release.
-
 [Unreleased]: https://github.com/duhby/hypixel.py/compare/v1.0.0...master
 [1.0.0]: https://github.com/duhby/hypixel.py/releases/tag/v1.0.0
