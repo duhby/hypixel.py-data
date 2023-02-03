@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+- Any achievement key with 'true' being capitalized when it shouldn't.
 - Achievements truecombat key being capitalized.
 
 ## [1.0.1] - 2023-1-25
